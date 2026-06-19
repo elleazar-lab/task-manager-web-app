@@ -75,7 +75,7 @@ def get_stats():
 
 if __name__ == '__main__':
     print("=" * 40)
-    print("📝 Task Manager Web App")
+    print("Task Manager Web App")
     print("=" * 40)
     print("Starting web server...")
     print("Open http://127.0.0.1:5000 in your browser")
